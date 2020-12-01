@@ -46,3 +46,12 @@
  box-shadow: 5px 5px 5px lightgrey;
  border-radius: 10px;
 }
+#contactus{
+    height: 300px;
+}
+.container h6{
+    color: grey;
+}
+footer{
+    text-align: center;
+}
